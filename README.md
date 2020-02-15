@@ -1,4 +1,4 @@
-# Tinder-Bot
+# Tinder Bot
 A bot to find tinder matches.
 
 The ```bot.py``` file once triggered automatically starts logs into your Tinder account using Facebook and starts finding matches for you.
